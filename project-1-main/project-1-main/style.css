@@ -1,0 +1,8 @@
+.B1{
+    background-image:    url(./imagesssss/background.jpg);
+    background:fixed  ; 
+    width: 100%;
+    height:auto  ; 
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
